@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9176af32-2156-4f57-8e42-496faeebedcc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="+ сигнатуры функций" />
     <MESSAGE value="+ .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ .gitignore" />
+    <MESSAGE value="+ const" />
+    <MESSAGE value="+ тест, если имя не передано" />
+    <MESSAGE value="! .gitignore" />
+    <MESSAGE value="+ хелпер" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ хелпер" />
   </component>
   <component name="WindowStateProjectService">
     <state x="442" y="281" key="#Notifications" timestamp="1600607621446">
