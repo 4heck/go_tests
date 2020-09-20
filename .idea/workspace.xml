@@ -124,7 +124,9 @@
     <MESSAGE value="! range" />
     <MESSAGE value="! разная длина массива" />
     <MESSAGE value="+ reflect.DeepEqual" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ reflect.DeepEqual" />
+    <MESSAGE value="+ func SumAll" />
+    <MESSAGE value="+ append" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ append" />
   </component>
   <component name="WindowStateProjectService">
     <state x="442" y="281" key="#Notifications" timestamp="1600607621446">
@@ -135,22 +137,42 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600613028614" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1600613134830">
+    <state x="483" y="160" key="#xdebugger.evaluate" timestamp="1600614051745">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600613134830" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1600613134829">
+    <state x="483" y="160" key="#xdebugger.evaluate/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600614051745" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1600614140300">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600613134829" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1600613134828">
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600614140300" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1600614140297">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600613134828" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1600613134829">
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600614140297" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1600614140296">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600613134829" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600614140296" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1600614140298">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600614140298" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1600614040926">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600614040926" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1600614040918">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600614040918" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1600614040916">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600614040916" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1600614040923">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600614040923" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1600607706857">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -159,5 +181,21 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600612825802" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/arrays-and-slices/sum.go</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoTestRunConfiguration">
+        <watch expression="tail.id" language="go" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
