@@ -23,6 +23,11 @@ func TestSearch(t *testing.T) {
 		assertStrings(t, err.Error(), want)
 	})
 
+	t.Run("unknown word", func(t *testing.T) {
+		_, got := dictionary.Search("unknown")
+
+		assertError(t, got, ErrNotFound)
+	})
 }
 
 func assertStrings(t *testing.T, got, want string) {
@@ -30,5 +35,13 @@ func assertStrings(t *testing.T, got, want string) {
 
 	if got != want {
 		t.Errorf("got %q want %q", got, want)
+	}
+}
+
+func assertError(t *testing.T, got, want error) {
+	t.Helper()
+
+	if got != want {
+		t.Errorf("got error %q want %q", got, want)
 	}
 }
