@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9176af32-2156-4f57-8e42-496faeebedcc" name="Default Changelist" comment="" />
+    <list default="true" id="9176af32-2156-4f57-8e42-496faeebedcc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello_test.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,16 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/4heck/go_tests" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1hlcWtC0xCFWSs3Z0EvwO8CR8EJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,16 +45,20 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="89" key="SettingsEditor" timestamp="1600597436299">
+    <state x="442" y="281" key="#Notifications" timestamp="1600607621446">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600597436299" />
+    <state x="442" y="281" key="#Notifications/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600607621446" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1600607675965">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600607675965" />
   </component>
 </project>
