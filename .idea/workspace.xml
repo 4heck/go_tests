@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9176af32-2156-4f57-8e42-496faeebedcc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +106,8 @@
     <MESSAGE value="! рефакторинг" />
     <MESSAGE value="+ adder, adder_test" />
     <MESSAGE value="+ документация, Example, комментарии" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ документация, Example, комментарии" />
+    <MESSAGE value="! конфликт" />
+    <option name="LAST_COMMIT_MESSAGE" value="! конфликт" />
   </component>
   <component name="WindowStateProjectService">
     <state x="442" y="281" key="#Notifications" timestamp="1600607621446">
@@ -116,9 +118,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600607706857" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1600609348280">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1600612709655">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600609348280" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600612709655" />
   </component>
 </project>
