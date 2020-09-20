@@ -31,7 +31,7 @@ jobs:
         fi
 
     - name: Build
-      run: cd src/maps && go build -v .
+      run: go build ./...
 
     - name: Test
-      run: cd src/maps && go test -v .
+      run: cd src && go test ./... -v -cover -bench=.
