@@ -46,6 +46,7 @@ jobs:
 
     - name: Notify Telegram
       uses: yanzay/notify-telegram@v0.1.0
+      if: ${{ always() }}
       with:
         chat: ${{ secrets.chat_id }} # user id or channel name secret
         token: ${{ secrets.token }} # token secret
