@@ -36,13 +36,6 @@ jobs:
     - name: Test
       run: cd src && go test ./... -v -cover -bench=.
 
-    - name: Notify Telegram
-      uses: yanzay/notify-telegram@v0.1.0
-      with:
-        chat: ${{ secrets.chat_id }} # user id or channel name secret
-        token: ${{ secrets.token }} # token secret
-        status: ${{ job.status }} # do not modify this line
-
     - name: Cache Go Modules
       uses: actions/cache@v2
       with:
@@ -50,3 +43,10 @@ jobs:
         key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
         restore-keys: |
           ${{ runner.os }}-go-
+
+    - name: Notify Telegram
+      uses: yanzay/notify-telegram@v0.1.0
+      with:
+        chat: ${{ secrets.chat_id }} # user id or channel name secret
+        token: ${{ secrets.token }} # token secret
+        status: ${{ job.status }} # do not modify this line
