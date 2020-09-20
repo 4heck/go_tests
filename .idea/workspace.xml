@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9176af32-2156-4f57-8e42-496faeebedcc" name="Default Changelist" comment="" />
+    <list default="true" id="9176af32-2156-4f57-8e42-496faeebedcc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +88,9 @@
     <MESSAGE value="+ хелпер" />
     <MESSAGE value="+ если явно не указано значение name" />
     <MESSAGE value="+ испанский язык" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ испанский язык" />
+    <MESSAGE value="+ рефактор" />
+    <MESSAGE value="+ французский язык" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ французский язык" />
   </component>
   <component name="WindowStateProjectService">
     <state x="442" y="281" key="#Notifications" timestamp="1600607621446">
