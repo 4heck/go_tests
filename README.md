@@ -2,4 +2,4 @@
 
 https://quii.gitbook.io/learn-go-with-tests
 
-https://img.shields.io/github/workflow/status/4heck/go_tests/Go
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/4heck/go_tests/Go)
