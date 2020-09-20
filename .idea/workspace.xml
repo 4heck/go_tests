@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9176af32-2156-4f57-8e42-496faeebedcc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/integers/adder.go" beforeDir="false" afterPath="$PROJECT_DIR$/integers/adder.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integers/adder_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/integers/adder_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +104,8 @@
     <MESSAGE value="+ вспомогательная функция для языков" />
     <MESSAGE value="! рефакторинг" />
     <MESSAGE value="+ adder, adder_test" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ adder, adder_test" />
+    <MESSAGE value="+ документация, Example, комментарии" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ документация, Example, комментарии" />
   </component>
   <component name="WindowStateProjectService">
     <state x="442" y="281" key="#Notifications" timestamp="1600607621446">
