@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9176af32-2156-4f57-8e42-496faeebedcc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/iteration/iteration_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/iteration/iteration_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="integers" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,27 +105,20 @@
     <MESSAGE value="! рефакторинг" />
     <MESSAGE value="+ adder, adder_test" />
     <MESSAGE value="+ документация, Example, комментарии" />
-    <MESSAGE value="+ godoc" />
-    <MESSAGE value="+ iteation" />
-    <MESSAGE value="+ +=" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ +=" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ документация, Example, комментарии" />
   </component>
   <component name="WindowStateProjectService">
     <state x="442" y="281" key="#Notifications" timestamp="1600607621446">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="442" y="281" key="#Notifications/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600607621446" />
-    <state x="358" y="218" key="MultipleFileMergeDialog" timestamp="1600611105753">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="358" y="218" key="MultipleFileMergeDialog/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600611105753" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1600607706857">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600607706857" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1600611112328">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1600609348280">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600611112328" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600609348280" />
   </component>
 </project>
