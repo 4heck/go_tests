@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9176af32-2156-4f57-8e42-496faeebedcc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integers/adder.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integers/adder_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/hello_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +40,11 @@
   </component>
   <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubPullRequestsUISettings">
@@ -64,6 +73,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hello-world" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -90,7 +104,10 @@
     <MESSAGE value="+ испанский язык" />
     <MESSAGE value="+ рефактор" />
     <MESSAGE value="+ французский язык" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ французский язык" />
+    <MESSAGE value="+ switch - case" />
+    <MESSAGE value="+ вспомогательная функция для языков" />
+    <MESSAGE value="! рефакторинг" />
+    <option name="LAST_COMMIT_MESSAGE" value="! рефакторинг" />
   </component>
   <component name="WindowStateProjectService">
     <state x="442" y="281" key="#Notifications" timestamp="1600607621446">
@@ -101,5 +118,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600607706857" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1600609348280">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/-292.-1080.1920.1080@0.0.1440.900" timestamp="1600609348280" />
   </component>
 </project>
